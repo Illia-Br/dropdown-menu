@@ -8,7 +8,7 @@ import cn from "classnames"
 
 const menu = [
   {
-    title:'Menu Item 1', link: '/page1', secondLevelMenu: [{title:'Inner Menu Item 1', link: '/page2'},{title:'Inner Menu Item 2', link: '/page3'},{title:'Inner Menu Item 3', link: '/page4'}]
+    title:'Menu Item 18', link: '/page1', secondLevelMenu: [{title:'Inner Menu Item 1', link: '/page2'},{title:'Inner Menu Item 2', link: '/page3'},{title:'Inner Menu Item 3', link: '/page4'}]
   },
   {
     title:'Menu Item 2', link: null, secondLevelMenu: [{title:'Inner Menu Item 4', link: '/page5'},{title:'Inner Menu Item 5', link: null}, {title:'Inner Menu Item 6', link: 'page6'}]
