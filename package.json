@@ -2,7 +2,7 @@
   "name": "dropdown-menu",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Illia-Br.github.io/dropdown-menu",
+  "homepage": "https://illia-br.github.io/dropdown-menu/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
